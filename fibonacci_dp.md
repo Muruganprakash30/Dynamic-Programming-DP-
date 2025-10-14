@@ -100,8 +100,4 @@ class FibonacciTabulation {
 **Key Points:**
 - Memoization is recursive; Tabulation is iterative.  
 - Both avoid redundant calculations.  
-- Great starting point to learn **Dynamic Programming**.  
-
 ---
-
-This file can be placed in your **GitHub DP folder** as a reference for the Fibonacci problem solved using DP.
